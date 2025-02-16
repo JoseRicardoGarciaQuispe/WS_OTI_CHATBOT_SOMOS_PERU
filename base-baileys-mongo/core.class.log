@@ -1,0 +1,39 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51999900396@s.whatsapp.net',
+    fromMe: false,
+    id: '6C80BB3F54FB0870BB10337354912118',
+    participant: undefined
+  },
+  messageTimestamp: 1739671267,
+  pushName: 'JR',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51999900396'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c907ef84-94cc-4165-b02d-87918c4aef63',
+  keyword: 'key_1780022c-2910-4b77-9647-d38ab08c1c9e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fd26d82c890208bb820976cdf8145ba1'
+}
